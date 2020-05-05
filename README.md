@@ -1,6 +1,6 @@
 # 10GB Yelp Review Analysis
 Utilizing 3 datasets (business, reviews, and user)
-![](Images/Yelp.jpeg)
+![](Images/1.png)
 
 
 [Dataset Link](https://www.kaggle.com/yelp-dataset/yelp-dataset#yelp_academic_dataset_business.json)
