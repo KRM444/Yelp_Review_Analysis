@@ -1,4 +1,4 @@
-# 10GB Yelp Review Analysis
+# Yelp Review Analysis
 Utilizing 3 datasets (business, reviews, and user)
 ![](Images/1.png)
 
